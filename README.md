@@ -21,10 +21,12 @@ All the data and Jupyter notebook's scripts used for each module in the present 
 - [LeDock](http://www.lephar.com/software.htm)
 - [Smina](https://sourceforge.net/projects/smina/)
 
-## Data 
+## Data and Bioinformatics tools
 
 The structural and chemical data used for the project has been retrieved from several biochemical databases using the web server or their API. 
 
 - Drug candidates: [ChEMBL](https://www.ebi.ac.uk/chembl/) and [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - LBVS compounds: [SwissModel](https://www.rcsb.org/)
 - Protein structures: [PDB](https://swissmodel.expasy.org/)
+- Pharmacophore: [Pharmit](https://pharmit.csb.pitt.edu/) and [PharmaGist](https://bioinfo3d.cs.tau.ac.il/PharmaGist/)
+
