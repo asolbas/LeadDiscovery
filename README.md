@@ -31,3 +31,7 @@ The structural and chemical data used for the project has been retrieved from se
 - Protein structures: [PDB](https://swissmodel.expasy.org/)
 - Pharmacophore: [Pharmit](https://pharmit.csb.pitt.edu/) and [PharmaGist](https://bioinfo3d.cs.tau.ac.il/PharmaGist/)
 
+## Contributors 
+
+Ana Solbas and Natalia García
+
