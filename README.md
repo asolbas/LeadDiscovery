@@ -19,3 +19,4 @@ All the data and Jupyter notebook's scripts used for each module in the present 
 - [RDKit](https://www.rdkit.org/)
 - [OpenBabel](http://openbabel.org/wiki/Main_Page)
 - [LeDock](http://www.lephar.com/software.htm)
+- [Smina](https://sourceforge.net/projects/smina/)
