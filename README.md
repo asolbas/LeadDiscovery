@@ -35,3 +35,7 @@ The structural and chemical data used for the project has been retrieved from se
 
 Ana Solbas and Natalia García
 
+## Liscense
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
