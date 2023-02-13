@@ -20,3 +20,11 @@ All the data and Jupyter notebook's scripts used for each module in the present 
 - [OpenBabel](http://openbabel.org/wiki/Main_Page)
 - [LeDock](http://www.lephar.com/software.htm)
 - [Smina](https://sourceforge.net/projects/smina/)
+
+## Data 
+
+The structural and chemical data has been retrieved from several biochemical databases using the web server or their API. 
+
+- Drug candidates: [ChEMBL](https://www.ebi.ac.uk/chembl/) and [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
+- LBVS compounds: [SwissModel](https://www.rcsb.org/)
+- Protein structures: [PDB](https://swissmodel.expasy.org/)
