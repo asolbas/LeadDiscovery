@@ -10,10 +10,11 @@ The lead discovery pipeline proposed in this work is divided in three modules, w
 
 1. Ligand based virtual screening (LBVS)
 2. Pharamcophore based virtual screening (PBVS)
-3. Protein based virtual screening (PBVS)
+3. Structure based virtual screening (PBVS)
 
 All the data and Jupyter notebook's scripts used for each module in the present work can be found in their correspondent folders.
 
 ## Dependencies
 
 - [RDKit](https://www.rdkit.org/)
+- [OpenBabel](http://openbabel.org/wiki/Main_Page)
